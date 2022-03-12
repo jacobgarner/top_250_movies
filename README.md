@@ -6,6 +6,8 @@ This programme is to help recommend and track which films I have watched, plus t
 ###################################################################################################################################################################################
 
 To add:
-- Small functionality change (Add your own movie and rate it)
 - Data storage and accessibility (Potentially using SQLite)
 - GUI update
+
+Added:
+- Small functionality change (Add your own movie and rate it)
